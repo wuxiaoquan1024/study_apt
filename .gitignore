@@ -1,0 +1,15 @@
+/build
+
+hideInclude.txt
+
+modularization.properties
+
+focus.gradle
+
+.modularization
+
+*.iml
+
+hideInclude.kt
+
+local.gradle
