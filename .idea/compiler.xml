@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="lib_annotations" target="1.7" />
+      <module name="lib_core" target="1.7" />
+      <module name="lib_processor" target="1.7" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

@@ -1,0 +1,6 @@
+include ':app_kotlin'
+include ':lib_core'
+include ':lib_processor'
+include ':lib_annotations'
+include ':app'
+rootProject.name = "apt"
